@@ -1,6 +1,6 @@
 # Your-Personal-AI-Project
 
-#1.Python Libraries (Install via Terminal) 
+bold#2.Python Libraries (Install via Terminal) 
 
 #Core AI/ML:
 
@@ -19,3 +19,5 @@
 
 #
                                                #pip install datasets                   //Hugging Face datasets
+
+
