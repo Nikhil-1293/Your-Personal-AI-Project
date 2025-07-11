@@ -9,5 +9,5 @@ pip install torch torchvision torchaudio  # PyTorch
 or
 pip install tensorflow keras             ##TensorFlow/Keras
 
-pip install transformers                # Hugging Face models (GPT, BERT, etc.)
+pip install transformers                ( Hugging Face models (GPT, BERT, etc.))
 pip install datasets                   # Hugging Face datasets
