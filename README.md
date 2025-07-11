@@ -1,7 +1,9 @@
 # Your-Personal-AI-Project
 
-#1.Python Libraries (Install via Terminal)
+#1.Python Libraries (Install via Terminal) 
+
 #Core AI/ML:
+
 #bash
 pip install torch torchvision torchaudio  # PyTorch
 or
