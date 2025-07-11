@@ -6,11 +6,10 @@
 
 #bash
 
-pip install torch torchvision torchaudio  //PyTorch
-or
+                                               #pip install torch torchvision torchaudio  //PyTorch
 
                                                #pip install tensorflow keras             //TensorFlow/Keras
 
-#pip install transformers   // Hugging Face models (GPT, BERT, etc.))
+                                               #pip install transformers   // Hugging Face models (GPT, BERT, etc.))
 
-#pip install datasets                   //Hugging Face datasets
+                                               #pip install datasets                   //Hugging Face datasets
