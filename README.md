@@ -1,5 +1,5 @@
 # Your-Personal-AI-Project
-#1. VS Code Extensions (Install via Extensions Marketplace)
+#1. VS-Code Extensions (Install via Extensions Marketplace)
 Python (by Microsoft):
 Essential for Python development.
 
