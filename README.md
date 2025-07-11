@@ -8,7 +8,7 @@
 
                                                #pip install torch torchvision torchaudio  //PyTorch
 
-                                               
+                                                                   #
 
                                                #pip install tensorflow keras             //TensorFlow/Keras
 
